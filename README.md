@@ -6,9 +6,9 @@ A dead simple draft manager backend
 npm install
 ```
 
-### Lint the code with standard
+### Lint the code with eslint
 ```bash
-npm run test
+npm run lint
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
